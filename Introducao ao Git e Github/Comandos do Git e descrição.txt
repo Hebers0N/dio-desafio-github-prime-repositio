@@ -1,4 +1,5 @@
 Comandos Git básicos
+
 1. git config
 Quando você está utilizando o Git pela primeira vez ou com uma instalação nova, em um projeto colaborativo, esse comando é fundamental para configurar sua identidade de usuário, inserindo informações como nome e email que serão empregadas em cada commit.
 
