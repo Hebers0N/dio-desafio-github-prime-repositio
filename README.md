@@ -1,4 +1,4 @@
-# dio-desafio-github-prime-repositio
+# Dio-desafio-github-prime-repositio
 Desafio de Projeto sobre Git/Github
 
 ## Links Uteis
